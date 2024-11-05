@@ -3,7 +3,7 @@
         xmlns:android="http://schemas.android.com/apk/res/android">
     <name>cordova-ios-guided-access</name>
     <js-module name="cordova-ios-guided-access" src="www/cordova-ios-guided-access.js">
-        <clobbers target="cordova.plugins.WPGuidedAccess"/>
+        <clobbers target="cordova.plugins.GuidedAccess"/>
     </js-module>
     <platform name="ios">
         <config-file parent="/*" target="config.xml">
