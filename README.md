@@ -8,9 +8,9 @@ Management (MDM), and the app itself must be enabled for this mode by MDM.
 ## Javascript Usage
 
 ```
-cordova.plugins.WPGuidedAccess.start();
-cordova.plugins.WPGuidedAccess.end();
-cordova.plugins.WPGuidedAccess.isStarted();
+cordova.plugins.GuidedAccess.start();
+cordova.plugins.GuidedAccess.end();
+cordova.plugins.GuidedAccess.isStarted();
 ```
 
 ## Research & Findings
