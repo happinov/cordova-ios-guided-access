@@ -1,6 +1,6 @@
 {
     "name": "cordova-ios-guided-access",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "description": "Invoke Guided Access",
     "cordova": {
         "id": "guided-access",
